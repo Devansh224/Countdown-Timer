@@ -4,7 +4,7 @@ const hoursEl = document.getElementById('hours');
 const minutesEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
-const newYears = "1 Jan 2021";
+const newYears = "1 Jan 2022";
 
 function callDate() {
     const newYearsDate = new Date(newYears);
